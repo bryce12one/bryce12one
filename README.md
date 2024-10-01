@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Bryce! I'm a 3rd year Computer science student at Carleton University, and I've worked for over 2 years at Shopify as a Software Engineer. Welcome to my GitHub!
+Hi, I'm Bryce! I'm a 3rd year Computer science student at Carleton University, and I've worked for over 2 years at Shopify as a Software Engineer. Welcome to my GitHub!
 
 ## My Interests
 
