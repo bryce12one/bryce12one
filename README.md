@@ -34,8 +34,8 @@ Hi, I'm Bryce! I'm a 3rd year Computer science student at Carleton University, a
 
 ## My Interests
 
-- _Product Management_
 - _Product Design_
+- _Product Management_
 - _Software Engineering_
 
 ## Skills
