@@ -30,15 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Bryce! I'm a 3rd year Computer science student at Carleton University, and I've worked for over 2 years at Shopify as a Software Engineer. Welcome to my GitHub!
+Hi!
 
-## My Interests
-
-- _Product Design_
-- _Product Management_
-- _Software Engineering_
-
-## Skills
+## Languages
 
 <p>
   <strong>Languages</strong>
@@ -56,7 +50,7 @@ Hi, I'm Bryce! I'm a 3rd year Computer science student at Carleton University, a
 </p>
 
 <p>
-  <strong>Technologies</strong><br>
+  <strong>Tech</strong><br>
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
