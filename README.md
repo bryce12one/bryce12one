@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Hi!
 
-## Languages
+## Skills
 
 <p>
   <strong>Languages</strong>
