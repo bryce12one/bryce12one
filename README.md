@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
-
 <p>
   <strong>Languages</strong>
   <br>
@@ -58,8 +56,6 @@ Here are some ideas to get you started:
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
-
-## Contact
 
 - **GitHub**: [@bryce12one](https://github.com/bryce12one)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bryce-indanan)
