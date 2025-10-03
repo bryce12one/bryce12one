@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm Bryce :)
+Hi! I'm Bryce, welcome to my GitHub!
 
 <!--
 **bryce12one/bryce12one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
