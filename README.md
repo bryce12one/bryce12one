@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Hi! I'm Bryce, welcome to my GitHub!
 
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p>
   <strong>Languages</strong>
@@ -60,3 +58,4 @@ Here are some ideas to get you started:
 - **GitHub**: [@bryce12one](https://github.com/bryce12one)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bryce-indanan)
 - **Email**: [bryceindanan@gmail.com](mailto:bryceindanan@gmail.com)
+-->
